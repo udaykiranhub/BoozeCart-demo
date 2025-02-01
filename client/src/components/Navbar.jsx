@@ -16,13 +16,13 @@ function Navbar() {
         }}
       />
       <Container>
-        <BsNavbar.Brand as={Link} to="/" style={{ fontSize: '24px', fontWeight: 'bold' }}>
+        <BsNavbar.Brand as={Link} to="/BoozeCart-demo" style={{ fontSize: '24px', fontWeight: 'bold' }}>
           BoozeCart
         </BsNavbar.Brand>
         <BsNavbar.Toggle aria-controls="basic-navbar-nav" />
         <BsNavbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <Nav.Link as={Link} to="/" style={{ display: 'flex', alignItems: 'center', marginRight: '15px' }}>
+            <Nav.Link as={Link} to="/BoozeCart-demo" style={{ display: 'flex', alignItems: 'center', marginRight: '15px' }}>
               <Home size={20} style={{ marginRight: '5px' }} /> Home
             </Nav.Link>
            
