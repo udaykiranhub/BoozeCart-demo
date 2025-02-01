@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BoozeCart-demo/static/css/main.f8a5ba8f.css",
+    "main.js": "/BoozeCart-demo/static/js/main.2a783d79.js",
+    "static/js/488.5dc00adb.chunk.js": "/BoozeCart-demo/static/js/488.5dc00adb.chunk.js",
+    "static/media/wine13.png": "/BoozeCart-demo/static/media/wine13.0043a77170e0d65ac346.png",
+    "static/media/wine14.png": "/BoozeCart-demo/static/media/wine14.c783a2dc3c0cc147e916.png",
+    "static/media/wine12.jpg": "/BoozeCart-demo/static/media/wine12.667f57ba79f19fa59ebd.jpg",
+    "static/media/wine4 - Copy.jpg": "/BoozeCart-demo/static/media/wine4 - Copy.eb8b03cf9723157310a3.jpg",
+    "static/media/wine16.jpg": "/BoozeCart-demo/static/media/wine16.a6ca064d99d08663f897.jpg",
+    "static/media/wine5 - Copy.jpg": "/BoozeCart-demo/static/media/wine5 - Copy.0eb0d86a8fbd1224c847.jpg",
+    "static/media/wine9.jpg": "/BoozeCart-demo/static/media/wine9.cc4b4dd4ab20ec5f6186.jpg",
+    "static/media/wine3 - Copy.png": "/BoozeCart-demo/static/media/wine3 - Copy.bb009409e8e7fa3c5aed.png",
+    "static/media/wine1 - Copy.jpg": "/BoozeCart-demo/static/media/wine1 - Copy.a7995724b664b47d1c5f.jpg",
+    "static/media/wine11.jpg": "/BoozeCart-demo/static/media/wine11.b0c512b004cb9122cfea.jpg",
+    "static/media/wine10.jpg": "/BoozeCart-demo/static/media/wine10.80ec433f10116faef99e.jpg",
+    "static/media/wine17.jpg": "/BoozeCart-demo/static/media/wine17.7a7b39c1bba6d29dc74e.jpg",
+    "index.html": "/BoozeCart-demo/index.html",
+    "main.f8a5ba8f.css.map": "/BoozeCart-demo/static/css/main.f8a5ba8f.css.map",
+    "main.2a783d79.js.map": "/BoozeCart-demo/static/js/main.2a783d79.js.map",
+    "488.5dc00adb.chunk.js.map": "/BoozeCart-demo/static/js/488.5dc00adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8a5ba8f.css",
+    "static/js/main.2a783d79.js"
+  ]
+}
