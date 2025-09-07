@@ -74,11 +74,5 @@ boozybook-demo/
    npm run build
    ```
 
-
-
-
 ---
 
-
-If you want, I can merge **both project READMEs into a single template style** so your GitHub looks consistent across all repos. That makes your portfolio feel more professional.
-```
