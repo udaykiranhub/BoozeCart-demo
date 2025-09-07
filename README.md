@@ -1,8 +1,4 @@
 
-
----
-
-```markdown
 # 🍷 BoozyBook – Online Wine & Alcohol Booking (Demo)
 
 BoozyBook is a **React.js demo application** for an online wine and alcohol ordering platform, inspired by services like Zomato and Swiggy.  
