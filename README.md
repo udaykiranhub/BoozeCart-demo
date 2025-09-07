@@ -50,8 +50,10 @@ boozybook-demo/
 
 ## ⚙️ Installation & Setup
 
+
 1. **Clone the repository**
-   ```bash
+
+```bash
    git clone https://github.com/yourusername/boozybook-demo.git
    cd boozybook-demo
 ````
@@ -60,19 +62,22 @@ boozybook-demo/
 
    ```bash
    npm install
+
    ```
 
 3. **Run the project**
 
    ```bash
+   
    npm start
+   
    ```
 
 4. **Build for production**
 
    ```bash
+   
    npm run build
+   
    ```
-
----
 
